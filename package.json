@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Junjie-Chen/click-game/issues"
   },
-  "homepage": "https://github.com/Junjie-Chen/click-game#readme"
+  "homepage": "https://github.com/Junjie-Chen/click-game#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
