@@ -4,6 +4,7 @@
   "description": "_A click game that presents the unresolved, resolved and rejected states of a Promise_",
   "main": "app.js",
   "scripts": {
+    "build": "parcel build index.html",
     "dev": "parcel index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
