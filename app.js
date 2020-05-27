@@ -21,4 +21,7 @@ function startGame() {
 startGame()
   .then(() => {
     alert('You won!');
+  })
+  .catch(() => {
+    alert('You lost!');
   });
