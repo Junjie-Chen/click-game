@@ -17,3 +17,8 @@ function startGame() {
     }, 2000);
   });
 }
+
+startGame()
+  .then(() => {
+    alert('You won!');
+  });
